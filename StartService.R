@@ -14,4 +14,3 @@ if (OS == "Linux"){
 
 # Start Rserve
 Rserve(args = "--no-save")
-
