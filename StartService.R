@@ -1,3 +1,10 @@
+# Installation notes
+# Install lssl (console)
+# apt-get install libssl-dev
+# Install Rserve
+# install.packages('Rserve',,'http://www.rforge.net/')
+
+
 
 # Determine OS
 OS <- Sys.info()["sysname"]
