@@ -4,6 +4,10 @@
 # Install Rserve
 # install.packages('Rserve',,'http://www.rforge.net/')
 
+# Test function
+hello <- function(name) {
+  paste("Hi ", name,", how are you?", sep = "")
+}
 
 
 # Determine OS
