@@ -2,3 +2,8 @@ Documentation References:
 
 Rserve - Binary R server
 https://www.rforge.net/Rserve/
+
+
+RServe – Introduction and Installation
+https://www.r-bloggers.com/rserve-introduction-and-installation/
+
